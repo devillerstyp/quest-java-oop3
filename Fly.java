@@ -1,5 +1,5 @@
 package questJavaoop3;
-public  class Fly {
+public  interface Fly {
 
      
     int ascend(int meters);
