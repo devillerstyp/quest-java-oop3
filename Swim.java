@@ -1,3 +1,4 @@
+package questJavaoop3;
 public interface Swim {
 
     void dive();
