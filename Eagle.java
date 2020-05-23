@@ -1,4 +1,5 @@
-public class Eagle extends Bird {
+package questJavaoop3;
+public class Eagle extends Bird implements Fly {
 
     private boolean flying;
     private int altitude;
