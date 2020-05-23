@@ -1,3 +1,4 @@
+package questJavaoop3;
 public class Penguin extends Bird implements Swim {
 
     private boolean swimming;
