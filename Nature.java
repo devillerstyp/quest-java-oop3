@@ -1,3 +1,4 @@
+package questJavaoop3;
 public class Nature {
 
     public static void main(String[] args) {
